@@ -1,0 +1,7 @@
+C:\Users\gregs\Desktop\CD\CodeChallenge1-5\CodeChallenge1-5\bin\Debug\CodeChallenge1-5.exe.config
+C:\Users\gregs\Desktop\CD\CodeChallenge1-5\CodeChallenge1-5\bin\Debug\CodeChallenge1-5.exe
+C:\Users\gregs\Desktop\CD\CodeChallenge1-5\CodeChallenge1-5\bin\Debug\CodeChallenge1-5.pdb
+C:\Users\gregs\Desktop\CD\CodeChallenge1-5\CodeChallenge1-5\obj\Debug\CodeChallenge1-5.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\CodeChallenge1-5\CodeChallenge1-5\obj\Debug\CodeChallenge1-5.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\CodeChallenge1-5\CodeChallenge1-5\obj\Debug\CodeChallenge1-5.exe
+C:\Users\gregs\Desktop\CD\CodeChallenge1-5\CodeChallenge1-5\obj\Debug\CodeChallenge1-5.pdb
